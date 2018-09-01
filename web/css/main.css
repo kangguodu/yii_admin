@@ -1,0 +1,165 @@
+/* line 5, ../memecoins/sass/main.scss */
+.square-modal .modal-content {
+  border-radius: 0 !important;
+}
+
+/* line 10, ../memecoins/sass/main.scss */
+.green {
+  color: #46a546;
+}
+
+/* line 14, ../memecoins/sass/main.scss */
+.red {
+  color: #bd362f;
+}
+
+/* line 18, ../memecoins/sass/main.scss */
+.blue {
+  color: blue;
+}
+
+/* line 22, ../memecoins/sass/main.scss */
+.type-store {
+  color: #000000;
+}
+
+/* line 26, ../memecoins/sass/main.scss */
+.type-member {
+  color: #0f74a8;
+}
+
+/* line 30, ../memecoins/sass/main.scss */
+.grid-view td {
+  white-space: normal;
+}
+
+/* line 33, ../memecoins/sass/main.scss */
+.member-search #membersearch-id {
+  width: 50px;
+}
+/* line 37, ../memecoins/sass/main.scss */
+.member-search #membersearch-username {
+  max-width: 80px;
+}
+/* line 41, ../memecoins/sass/main.scss */
+.member-search #membersearch-nickname {
+  max-width: 90px;
+}
+/* line 45, ../memecoins/sass/main.scss */
+.member-search #membersearch-email {
+  max-width: 90px;
+}
+
+/* line 51, ../memecoins/sass/main.scss */
+.store-search #storesearch-id {
+  max-width: 75px;
+}
+/* line 55, ../memecoins/sass/main.scss */
+.store-search #storesearch-name {
+  max-width: 85px;
+}
+/* line 58, ../memecoins/sass/main.scss */
+.store-search #storesearch-phone {
+  max-width: 85px;
+}
+/* line 61, ../memecoins/sass/main.scss */
+.store-search #storesearch-code {
+  max-width: 85px;
+}
+
+/* line 68, ../memecoins/sass/main.scss */
+.store-user-search .input-group .select2-container--krajee {
+  max-width: 150px !important;
+}
+/* line 72, ../memecoins/sass/main.scss */
+.store-user-search #storeusersearch-id {
+  max-width: 75px;
+}
+/* line 76, ../memecoins/sass/main.scss */
+.store-user-search #storeusersearch-store_id {
+  max-width: 75px;
+}
+/* line 81, ../memecoins/sass/main.scss */
+.store-user-search #storeusersearch-nickname {
+  max-width: 75px;
+}
+/* line 85, ../memecoins/sass/main.scss */
+.store-user-search #storeusersearch-mobile {
+  max-width: 75px;
+}
+
+/* line 96, ../memecoins/sass/main.scss */
+.goods-search .input-group .select2-container--krajee {
+  max-width: 150px !important;
+}
+/* line 100, ../memecoins/sass/main.scss */
+.goods-search #goodssearch-id {
+  max-width: 75px;
+}
+/* line 104, ../memecoins/sass/main.scss */
+.goods-search #goodssearch-goods_name {
+  max-width: 75px;
+}
+
+/* line 112, ../memecoins/sass/main.scss */
+.store-bank-account-search .input-group .select2-container--krajee {
+  max-width: 150px !important;
+}
+/* line 116, ../memecoins/sass/main.scss */
+.store-bank-account-search #storebankaccountsearch-bank_name {
+  max-width: 75px;
+}
+/* line 120, ../memecoins/sass/main.scss */
+.store-bank-account-search #storebankaccountsearch-receiver_name {
+  max-width: 75px;
+}
+/* line 124, ../memecoins/sass/main.scss */
+.store-bank-account-search #storebankaccountsearch-bank_account {
+  max-width: 75px;
+}
+
+/* line 131, ../memecoins/sass/main.scss */
+.store-banner-search .input-group .select2-container--krajee {
+  max-width: 150px !important;
+}
+/* line 135, ../memecoins/sass/main.scss */
+.store-banner-search #storebannersearch-id {
+  max-width: 75px;
+}
+/* line 139, ../memecoins/sass/main.scss */
+.store-banner-search #storebannersearch-store_id {
+  max-width: 75px;
+}
+/* line 143, ../memecoins/sass/main.scss */
+.store-banner-search #storebannersearch-rank {
+  max-width: 75px;
+}
+
+/* line 150, ../memecoins/sass/main.scss */
+.orders-search .input-group .select2-container--krajee {
+  max-width: 150px !important;
+}
+/* line 154, ../memecoins/sass/main.scss */
+.orders-search #orderssearch-id {
+  max-width: 75px;
+}
+/* line 158, ../memecoins/sass/main.scss */
+.orders-search #orderssearch-order_no {
+  max-width: 75px;
+}
+
+/* line 165, ../memecoins/sass/main.scss */
+.notice-log-form .field-noticelog-url, .notice-log-form .field-noticelog-point_id, .notice-log-form .field-noticelog-platform_type, .notice-log-form .field-noticelog-created_at, .notice-log-form .field-noticelog-updated_at {
+  height: 0px;
+  margin-bottom: 0px !important;
+}
+/* line 169, ../memecoins/sass/main.scss */
+.notice-log-form .field-noticelog-url .help-block, .notice-log-form .field-noticelog-point_id .help-block, .notice-log-form .field-noticelog-platform_type .help-block, .notice-log-form .field-noticelog-created_at .help-block, .notice-log-form .field-noticelog-updated_at .help-block {
+  margin: 0px;
+}
+
+/* line 177, ../memecoins/sass/main.scss */
+.filters .form-control {
+  height: 30px;
+  padding: 5px 0px;
+}

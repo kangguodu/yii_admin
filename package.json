@@ -1,0 +1,21 @@
+{
+  "name": "mememanager2",
+  "version": "1.0.0",
+  "description": "皮一下",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://office.techrare.com:8184/php/mememanager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap3-dialog": "^1.35.4"
+  }
+}

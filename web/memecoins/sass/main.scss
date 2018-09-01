@@ -1,0 +1,180 @@
+
+$search-input-with: 75px;
+$search-select2-with: 150px;
+
+.square-modal .modal-content
+{
+    border-radius: 0 !important;
+}
+
+.green{
+	color:#46a546;
+}
+
+.red{
+	color:#bd362f;
+}
+
+.blue{
+	color: blue;
+}
+
+.type-store{
+	color: #000000;
+}
+
+.type-member{
+	color: #0f74a8;
+}
+
+.grid-view td{ white-space: normal; }
+
+.member-search{
+	#membersearch-id{
+		width: 50px;
+	}
+
+	#membersearch-username{
+		max-width: 80px;
+	}
+
+	#membersearch-nickname{
+		max-width: 90px;
+	}
+
+	#membersearch-email{
+		max-width: 90px;
+	}
+}
+
+.store-search{
+	#storesearch-id{
+		max-width: $search-input-with;
+	}
+
+	#storesearch-name{
+		max-width: 85px;
+	}
+	#storesearch-phone{
+		max-width: 85px;
+	}
+	#storesearch-code{
+		max-width: 85px;
+	}	
+}
+
+.store-user-search{
+
+	.input-group .select2-container--krajee{
+			max-width: $search-select2-with !important;
+	}
+
+	#storeusersearch-id{
+		max-width: $search-input-with;
+	}
+
+	#storeusersearch-store_id{
+		max-width: $search-input-with;
+
+	}
+
+	#storeusersearch-nickname{
+		max-width: $search-input-with;
+	}
+
+	#storeusersearch-mobile{
+		max-width: $search-input-with;
+
+
+	}
+
+
+}
+
+.goods-search{
+
+	.input-group .select2-container--krajee{
+			max-width: $search-select2-with !important;
+	}
+
+	#goodssearch-id{
+		max-width: $search-input-with;
+	}
+
+	#goodssearch-goods_name{
+		max-width: $search-input-with;
+
+	}
+}
+
+.store-bank-account-search{
+
+	.input-group .select2-container--krajee{
+			max-width: $search-select2-with !important;
+	}
+
+	#storebankaccountsearch-bank_name{
+		max-width: $search-input-with;
+	}
+
+	#storebankaccountsearch-receiver_name{
+		max-width: $search-input-with;
+	}
+
+	#storebankaccountsearch-bank_account{
+		max-width: $search-input-with;
+	}
+}
+
+.store-banner-search{
+
+	.input-group .select2-container--krajee{
+			max-width: $search-select2-with !important;
+	}
+
+	#storebannersearch-id{
+		max-width: $search-input-with;
+	}
+
+	#storebannersearch-store_id{
+		max-width: $search-input-with;
+	}
+
+	#storebannersearch-rank{
+		max-width: $search-input-with;
+	}
+}
+
+.orders-search{
+
+	.input-group .select2-container--krajee{
+			max-width: $search-select2-with !important;
+	}
+
+	#orderssearch-id{
+		max-width: $search-input-with;
+	}
+
+	#orderssearch-order_no{
+		max-width: $search-input-with;
+	}
+
+}
+
+.notice-log-form{
+	.field-noticelog-url,.field-noticelog-point_id,.field-noticelog-platform_type,.field-noticelog-created_at,.field-noticelog-updated_at{
+		height: 0px;
+		margin-bottom:0px !important;
+
+		.help-block{
+			margin:0px;
+		}
+	}
+}
+	
+
+
+.filters .form-control{
+	height: 30px;
+	padding: 5px 0px;
+}
